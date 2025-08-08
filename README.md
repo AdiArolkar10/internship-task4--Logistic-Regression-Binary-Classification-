@@ -1,4 +1,4 @@
-# Logistic Regression Binary Classification
+📌 Note: This task is part of a structured internship to reinforce basic ML skills. It’s not meant to reflect my current skill level or portfolio quality.# Logistic Regression Binary Classification
 
 This project implements a **Logistic Regression** model for binary classification using the **Heart Disease UCI Dataset** from Kaggle.
 
